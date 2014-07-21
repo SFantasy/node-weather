@@ -2,4 +2,8 @@
 
 var nw = require('../index');
 
-nw(process.argv[2]);
+if(process.argv[2]) {
+    nw(process.argv[2]);
+} else {
+    console.log('参数错误');
+}

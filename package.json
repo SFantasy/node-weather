@@ -1,6 +1,6 @@
 {
     "name": "node-weather",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Get weather today in terminals",
     "author": {
         "name": "Fantasy Shao",
