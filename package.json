@@ -1,0 +1,24 @@
+{
+    "name": "node-weather",
+    "version": "0.0.1",
+    "description": "Get weather today in terminals",
+    "author": {
+        "name": "Fantasy Shao",
+        "email": "fantasyshao@icloud.com",
+        "url": "http://fantasy.codes"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:SFantasy/node-weather.git"
+    },
+    "bin": {
+        "node-weather": "./bin/node-weather"
+    },
+    "main": "index.js",
+    "license": "MIT",
+    "reademe": "README.md",
+    "dependencies": {
+        "request": "2.37.0",
+        "picture-tube": "0.0.4"
+    }
+}

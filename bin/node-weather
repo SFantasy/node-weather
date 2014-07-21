@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var nw = require('../index');
+
+nw(process.argv[2]);
