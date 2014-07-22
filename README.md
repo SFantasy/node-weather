@@ -1,5 +1,7 @@
 # node-weather
 
+[![Build Status](https://travis-ci.org/SFantasy/send.svg?branch=master)](https://travis-ci.org/SFantasy/node-weather)
+
 在终端中获取天气
 
 ## Install
