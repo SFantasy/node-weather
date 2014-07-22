@@ -2,22 +2,22 @@
 
 在终端中获取天气
 
-## install
+## Install
 
 ```
 [sudo] npm install node-weather [-g]
 ```
 
-## usage
+## Usage
 
 ```
 node-weather 北京
 ```
 
-## screenshot
+## Screenshot
 
 ![screenshot](node-weather.png)
 
-## license
+## License
 
 The MIT License
