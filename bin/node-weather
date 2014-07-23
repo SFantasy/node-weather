@@ -2,8 +2,17 @@
 
 var nw = require('../index');
 
-if(process.argv[2]) {
-    nw(process.argv[2]);
+var param = process.argv[2] ? process.argv[2] : '';
+
+if (param) {
+    switch (param) {
+        case '-h':
+        case '--help':
+            console.log('\nUsage: node-weather <city>\ne.g. node-weather 南京\n');
+            break;
+        default:
+            nw(param);
+    }
 } else {
-    console.log('参数错误');
+    console.log('\nUsage: node-weather <command>\n\nnode-weather -h (--help) quick help of node-weather\n');
 }
