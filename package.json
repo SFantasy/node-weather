@@ -1,25 +1,25 @@
 {
-    "name": "node-weather",
-    "version": "0.1.4",
-    "description": "Get weather in terminals",
-    "author": {
-        "name": "Fantasy Shao",
-        "email": "fantasyshao@icloud.com",
-        "url": "http://fantasy.codes"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:SFantasy/node-weather.git"
-    },
-    "bin": {
-        "node-weather": "./bin/node-weather"
-    },
-    "main": "index.js",
-    "license": "MIT",
-    "reademe": "README.md",
-    "dependencies": {
-        "request": "2.37.0",
-        "picture-tube": "0.0.4",
-        "colors": "0.6.2"
-    }
+  "name": "node-weather",
+  "version": "0.1.5",
+  "description": "Get weather in terminals",
+  "author": {
+    "name": "Fantasy Shao",
+    "email": "fantasyshao@icloud.com",
+    "url": "http://fantasy.codes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SFantasy/node-weather.git"
+  },
+  "bin": {
+    "node-weather": "./bin/node-weather"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "reademe": "README.md",
+  "dependencies": {
+    "request": "^2.37.0",
+    "picture-tube": "0.0.4",
+    "colors": "0.6.2"
+  }
 }
