@@ -1,11 +1,15 @@
 {
   "name": "node-weather",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Get weather in terminals",
   "author": {
     "name": "Fantasy Shao",
     "email": "fantasyshao@icloud.com",
     "url": "http://fantasy.codes"
+  },
+  "keywords": {
+    "weather",
+    "tianqi"
   },
   "repository": {
     "type": "git",
