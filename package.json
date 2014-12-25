@@ -7,10 +7,10 @@
     "email": "fantasyshao@icloud.com",
     "url": "http://fantasy.codes"
   },
-  "keywords": {
+  "keywords": [
     "weather",
     "tianqi"
-  },
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:SFantasy/node-weather.git"
