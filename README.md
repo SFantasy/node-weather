@@ -17,7 +17,7 @@
 - Look for help
 
 ```
-node-weahter -h (--help)
+node-weather -h (--help)
 ```
 
 - Get weather info
